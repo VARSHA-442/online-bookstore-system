@@ -9,7 +9,6 @@ The Online Bookstore System is a simple Java application that simulates an onlin
   - [Features](#features)
   - [Getting Started](#getting-started)
   - [Usage](#usage)
-  - [License](#license)
 
 ## Features
 
@@ -75,6 +74,4 @@ java Bookstore
 6. **Payment Processing:**
 - Users can process payments for their orders, and the application rounds payment amounts to two decimal places.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
